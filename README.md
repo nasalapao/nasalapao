@@ -1,4 +1,5 @@
 #H3- 🔭 I’m currently working on Sarathornmetal Co., Ltd.
+- 🌱 I’m currently learning Angular , React , TypeScript
 
 <!--
 **nasalapao/nasalapao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

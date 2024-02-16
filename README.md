@@ -6,10 +6,11 @@ Welcome to my Github profile
 Skills:
 * Asp.net mvc ,Asp.net core api 
 * Vb.net c# windows app
-* Devexpress
-* Crytal report
+* DevExpress
+* Crystal report
 * Html ,Css ,Material-UI/Bootstrap
 * Angular , React , TypeScript (learning)
+* PHP (long ago)
 
 Database: 
 * MSSQL Server
